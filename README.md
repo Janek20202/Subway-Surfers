@@ -1,5 +1,5 @@
 # Subway-Surf
-## By Ananya Arun
+## By John Olszak
 
 ### Running Instruntions
 - Open index.html in any browser preferably firefox.
